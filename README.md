@@ -36,10 +36,10 @@ pip install reportlab
 
 ### Run the App
 
-Save the file as `mlb_predictor.py` (or any name you prefer) and run:
+Save the file as `main.py` (or any name you prefer) and run:
 
 ```bash
-python mlb_predictor.py
+python main.py
 ```
 
 ### What Does It Do?
